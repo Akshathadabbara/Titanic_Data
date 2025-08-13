@@ -60,6 +60,4 @@ Jupyter Notebook: Full EDA process with code and explanations.
 
 PDF Report: Clean, shareable summary of findings and visuals.
 
-Pairplots: Exploring relationships between multiple features.
-
-# 5.Insight Documentation
+Pairplots: Exploring relationships between multiple features
